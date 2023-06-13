@@ -13,8 +13,13 @@ Note: if the file name has any special char, please remove it
 How to put in program mode
 
 start the programming utility
+
 select the correct COM port
+
 select the updated file
+
 click update and immediately
+
 Press and release the RST button
+
 Once the firmware update is finished, device will reboot 
