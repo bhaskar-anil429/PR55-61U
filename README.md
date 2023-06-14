@@ -3,9 +3,9 @@
 Make sure the PC has usb-serial driver
  https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads
 
-*PR55-61US -- Single Channel Devcie Type 88*
+**PR55-61US -- Single Channel Devcie Type 88**
 
-*PR55-61U -- Dual Channel Devcie Type 89*
+**PR55-61U -- Dual Channel Devcie Type 89**
 
 To update the firmware, you will need a
 
